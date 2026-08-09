@@ -2,7 +2,7 @@
 title: METAR et TAF
 description: Décrire les messages
 published: true
-date: 2026-08-09T15:04:15.866Z
+date: 2026-08-09T15:10:49.247Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-27T22:02:12.327Z
@@ -15,10 +15,6 @@ dateCreated: 2026-02-27T22:02:12.327Z
 **On appelle TAF**, le Message de prévision d'aérodrome (Terminal Aerodrome Forecast). Il est rédigé systématiquement toutes les 3 heures. Il décrit le temps prévu sur l'aérodrome pour une durée de 9 heures (TAF court) ou 18 heures (TAF long). Sa structure est la même que celle du METAR.
 
 ## Codage des messages météorologiques
-
-### Les conditions
-
-![metar_array.png](/metar_array.png)
 
 ### Les particularités
 
@@ -103,53 +99,7 @@ La RVR n'est reportée que lorsque la visibilité ou la RVR elle-même est infé
 
 Codé par la combinaison d'un descripteur d'intensité/proximité, d'un descripteur du phénomène, et du phénomène lui-même.
 
-**Intensité / proximité :**
-
-| Code | Signification |
-|---|---|
-| - | Faible |
-| (rien) | Modéré |
-| + | Fort |
-| VC | Au voisinage de l'aérodrome (Vicinity) |
-
-**Descripteurs :**
-
-| Code | Signification |
-|---|---|
-| MI | Mince (Shallow) |
-| BC | Bancs (Patches) |
-| PR | Partiel (Partial) |
-| DR | Chasse-poussière/neige basse (Drifting) |
-| BL | Chasse élevée (Blowing) |
-| SH | Averses (Shower) |
-| TS | Orage (Thunderstorm) |
-| FZ | Se congelant (Freezing) |
-
-**Phénomènes :**
-
-| Code | Signification |
-|---|---|
-| DZ | Bruine |
-| RA | Pluie |
-| SN | Neige |
-| SG | Neige en grains |
-| IC | Cristaux de glace |
-| PL | Granules de glace |
-| GR | Grêle |
-| GS | Grésil/petite grêle |
-| UP | Précipitation inconnue (auto) |
-| BR | Brume |
-| FG | Brouillard |
-| FU | Fumée |
-| VA | Cendres volcaniques |
-| DU | Poussière |
-| SA | Sable |
-| HZ | Brume sèche |
-| PO | Tourbillons de poussière/sable |
-| SQ | Grain |
-| FC | Trombe/tornade |
-| SS | Tempête de sable |
-| DS | Tempête de poussière |
+![metar_array.png](/metar_array.png)
 
 Exemple : `+TSRA` = orage fort avec pluie ; `-SHSN` = faibles averses de neige ; `VCFG` = brouillard au voisinage.
 
