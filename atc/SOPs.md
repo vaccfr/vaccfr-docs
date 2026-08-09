@@ -2,7 +2,7 @@
 title: SOPs
 description: 
 published: true
-date: 2026-08-03T19:32:28.438Z
+date: 2026-08-09T12:39:57.724Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-26T13:02:53.959Z
@@ -63,6 +63,6 @@ Vous trouverez ci-dessous l'intégralité des SOPs et MANEX pour les différente
 - [LFLL - Lyon Saint-Éxupery](/fr/atc/SOPs/LFLL)
 - [LFLS - Grenoble Alpes-Isère](/fr/atc/SOPs/LFLS)
 - [LFLC - Clermont-Ferrand](/fr/atc/SOPs/LFLC)
-- [LFMN - Marseille Provence](/fr/atc/SOPs/LFML)
+- [LFML - Marseille Provence](/fr/atc/SOPs/LFML)
 - [LFMN - Nice Côte d'Azur](/fr/atc/SOPs/LFMN)
 {.links-list}
