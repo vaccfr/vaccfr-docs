@@ -2,7 +2,7 @@
 title: METAR et TAF
 description: Décrire les messages
 published: true
-date: 2026-08-09T15:10:49.247Z
+date: 2026-08-09T15:11:24.858Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-27T22:02:12.327Z
@@ -191,11 +191,3 @@ TAF LFPG 091100Z 0912/1018 26012KT 9999 SCT025
 - 30% de probabilité, entre 06h et 10h le jour 10, de brouillard dense (visibilité 1000 m) avec ciel obscurci et visibilité verticale à 200 ft
 
 ---
-
-## Points clés à retenir
-
-- Le METAR **observe**, le TAF **prévoit** : leur structure de codage est identique, seules les significations des groupes de fin diffèrent (tendance vs. évolution).
-- L'heure est **toujours exprimée en UTC** (Zulu), jamais en heure locale.
-- **CAVOK** simplifie le message quand les conditions sont bonnes sur tous les critères simultanément.
-- Les groupes **BECMG**, **TEMPO**, **FM** et **PROB** structurent l'évolution temporelle du TAF et sont essentiels pour l'analyse du risque météorologique en préparation de vol.
-- La présence de **CB** ou **TCU** dans la nébulosité doit toujours attirer l'attention, en raison des risques associés (turbulence, cisaillement, grêle, givrage).
