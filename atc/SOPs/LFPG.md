@@ -2,7 +2,7 @@
 title: SOP LFPG
 description: SOP LFPG
 published: true
-date: 2026-08-01T16:02:21.293Z
+date: 2026-08-09T14:02:21.946Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-27T21:48:35.409Z
@@ -41,29 +41,31 @@ Le SOP est divisé en sous-sections correspondant aux grands ensembles de positi
 
 ## Positions de contrôle et limitations
 
+Remarque : pour les positions RMP la ou les lettres entre LFPG et RMP signifient la ou les zones concernés.
+
 |**Indicatif** (SI)|**Indicatif d'appel**|**Fréquence**|**Priorité**|
 |:-:|:-:|:-:|:-:|
 **LFPG_ATIS** (PGZ)| **De Gaulle ATIS** | **127.130** | **-** |
-**LFPG_DEL** (PGD)| **De Gaulle Prévol** | **121.840** | **-** |
-**LFPG_RMP** (PGT)| **De Gaulle Trafic** | **121.940** | **-** |
-**LFPG_ACE_RMP** (PGACE)| **De Gaulle Trafic** | **121.930** | **-** |
-**LFPG_BD_RMP** (PGBD)| **De Gaulle Trafic** | **121.640** | **-** |
-**LFPG_F_RMP** (PGF)| **De Gaulle Trafic** | **121.580** | **-** |
-**LFPG_J_RMP** (PGJ)| **De Gaulle Trafic** | **121.880** | **-** |
-**LFPG_KL_RMP** (PGKL)| **De Gaulle Trafic** | **121.680** | **-** |
-**LFPG_FDX_RMP** (PGF)| **De Gaulle Trafic** | **131.605** | **-** |
-**LFPG_N_GND** (PGGN)| **De Gaulle Sol** | **121.610** | **-** |
-**LFPG_NP_GND** (PGNP)| **De Gaulle Sol** | **121.780** | **-** |
-**LFPG_SW_GND** (PGSW)| **De Gaulle Sol** | **121.810** | **-** |
-**LFPG_SE_GND** (PGSE)| **De Gaulle Sol** | **121.980** | **-** |
-**LFPG_N_TWR** (PGTN)| **De Gaulle Tour** | **119.255** | **-** |
-**LFPG_S_TWR** (PGTS)| **De Gaulle Tour** | **120.905** | **-** |
-**LFPG_N_APP** (PGN)| **De Gaulle Approche** | **121.155** | **-** |
-**LFPG_S_APP** (PGS)| **De Gaulle Approche** | **125.830** | **-** |
-**LFPG_FN_APP** (PGFN)| **De Gaulle Arrivée** | **126.430** | **-** |
-**LFPG_FS_APP** (PGFS)| **De Gaulle Arrivée** | **118.155** | **-** |
-**LFPG_N_DEP** (PGDN)| **De Gaulle Départ** | **124.355** | **-** |
-**LFPG_S_DEP** (PGDS)| **De Gaulle Départ** | **133.380** | **-** |
+**LFPG_DEL** (PGD)| **De Gaulle Prévol** | **121.840** | **1** |
+**LFPG_RMP** (PGT)| **De Gaulle Trafic** | **121.940** | **1** |
+**LFPG_ACE_RMP** (PGACE)| **De Gaulle Trafic** | **121.930** | **2** |
+**LFPG_BD_RMP** (PGBD)| **De Gaulle Trafic** | **121.640** | **2** |
+**LFPG_F_RMP** (PGF)| **De Gaulle Trafic** | **121.580** | **2** |
+**LFPG_J_RMP** (PGJ)| **De Gaulle Trafic** | **121.880** | **2** |
+**LFPG_KL_RMP** (PGKL)| **De Gaulle Trafic** | **121.680** | **2** |
+**LFPG_FDX_RMP** (PGF)| **De Gaulle Trafic** | **131.605** | **2** |
+**LFPG_N_GND** (PGGN)| **De Gaulle Sol** | **121.610** | **1** |
+**LFPG_NP_GND** (PGNP)| **De Gaulle Sol** | **121.780** | **2** |
+**LFPG_SW_GND** (PGSW)| **De Gaulle Sol** | **121.810** | **2** |
+**LFPG_SE_GND** (PGSE)| **De Gaulle Sol** | **121.980** | **2** |
+**LFPG_N_TWR** (PGTN)| **De Gaulle Tour** | **119.255** | **1** |
+**LFPG_S_TWR** (PGTS)| **De Gaulle Tour** | **120.905** | **2** |
+**LFPG_N_APP** (PGN)| **De Gaulle Approche** | **121.155** | **1** |
+**LFPG_S_APP** (PGS)| **De Gaulle Approche** | **125.830** | **2** |
+**LFPG_FN_APP** (PGFN)| **De Gaulle Arrivée** | **126.430** | **2** |
+**LFPG_FS_APP** (PGFS)| **De Gaulle Arrivée** | **118.155** | **3** |
+**LFPG_N_DEP** (PGDN)| **De Gaulle Départ** | **124.355** | **2** |
+**LFPG_S_DEP** (PGDS)| **De Gaulle Départ** | **133.380** | **3** |
 
 
 > La position considérée ne peut être ouverte que si la/les position(s) dans la colonne *Priorité* est/sont déja ouverte(s).
