@@ -1,0 +1,63 @@
+---
+title: Position Tour
+description: SOP - LFML
+published: true
+date: 2026-07-15T15:04:14.130Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-15T13:27:45.490Z
+---
+
+![doc_banner_sops.png](/banners/doc_banner_sops.png)
+# Position Tour
+## Configuration préférentielle
+
+La piste 13L/31R est utilisée comme piste principale.
+La piste 13R/31L est privilégiée pour les trafics VFR, elle ferme en conditions de faible visibilité.
+
+En 13L l’ILS Z est préférentielle et en 31R la RNP Z.
+
+Sauf nécessité opérationnelle, entre 2300 et 0600LT, par faible trafic et faible vent (≤ 5 kt), le QFU 13 est privilégié pour les arrivées et le QFU 31 pour les départs. Dans ce cas, le QFU 13 est en service.
+
+## Cadence départs/arrivées
+
+La capacité maximale (limitée par la capacité des TMA) est de 40 mouvements par heure répartis également en 20 départs et 20 arrivées par heure soit ~1m30s entre chaque mouvement.
+
+Voici les cadences applicables sur VATSIM : 
+- Départs : Un départ chaque 3min en moyenne
+- Arrivée : Une arrivée chaque 3min en moyenne (~9NM à 180kts)
+
+> En LVO, il n’y a pas de cadences publiées. Les départs sont limités à 1 mouvement simultané.
+{.is-warning}
+
+## VFR
+
+Le circuit de piste se fait à 1100ft au sud-ouest de la plateforme peu importe le QFU utilisé.
+Des itinéraires de départ et d'arrivée sont publiés, voir la carte VAC pour toutes les informations
+
+## Remise de gaz
+
+Les remises de gaz doivent être données comme publiées ou coordonnées avec l’approche.
+
+## Opérations par faible visibilité (LVO)
+
+Les opérations de faible visibilité sont déclenchées à Marseille Provence sont déclenchées lorsque :
+
+<center>
+
+```diagram
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDsgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7IGNvbG9yLXNjaGVtZTogbGlnaHQgZGFyazsiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIzMTBweCIgaGVpZ2h0PSIzMHB4IiB2aWV3Qm94PSIwIDAgMzEwIDMwIiBjb250ZW50PSImbHQ7bXhmaWxlIGhvc3Q9JnF1b3Q7ZW1iZWQuZGlhZ3JhbXMubmV0JnF1b3Q7Jmd0OyZsdDtkaWFncmFtIGlkPSZxdW90O3hFM1VBR2RnUzhzVHhObkhaVnBWJnF1b3Q7IG5hbWU9JnF1b3Q7UGFnZS0xJnF1b3Q7Jmd0O2paUE5Vb013RUlDZmhxTXpRRHBZankxV3ZUZ2VPbzdubEd3aFkyQXhwSVg2OUc1SUltQjF4bE95Mys1bWZ4T3h2QjRlTlcrclp4U2dvalFXUThUdW96Uk5Wc21LRGtzdWp0eXVtUU9sbHNJYlRXQXZQOEhEMk5PVEZOQXREQTJpTXJKZHdnS2JCZ3F6WUZ4cjdKZG1SMVRMcUMwdjRRcnNDNjZ1NlpzVXBuSjBuZDVPL0Fsa1dZWElTWGJuTkRVUHhyNlNydUlDK3hsaXU0amxHdEc0V3oza29HenpRbCtjMzhNZjJ1L0VORFRtUHc3cHRZTi9vek9YVUs2QmdYVGJ5dFNLUUVMWHZwSUc5aTB2ckVWUFF5YldHWTN2a0tOQ1RiREJoblRibzFUcUIrSktsZzJKQlVVRTR0c3phQ09wdVJ1dnFLVVFOdlJXNDZrUllET05TWEpwbmJrNitiU2lORk0ycndOZFNqTmFPSEJFcW1WZVFmWnh3cUM0NmNaMTJwQkJzbW9INStiMTRhR3o3T1JCS21taW5FVWJtaDAxTWVPMXJWSTV1M2dkeDNhZW84SGFhTnJHTkg1NXRhMVVuTUtJMzN6WTZOTktFRjFJbFNianNsMVdRSGhXMVZnM05RbUcyWVQ4UEI4QmF6RDZRaWJWYk9XWTM2OStXazhXZm85L0pmTmkrSU5lNVA1dmxOOFBUK3RERjc5QlFadzJkZFROL2p2YmZRRT0mbHQ7L2RpYWdyYW0mZ3Q7Jmx0Oy9teGZpbGUmZ3Q7Ij48ZGVmcy8+PGc+PGcgZGF0YS1jZWxsLWlkPSIwIj48ZyBkYXRhLWNlbGwtaWQ9IjEiPjxnIGRhdGEtY2VsbC1pZD0iMiI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC41LDAuNSkiPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIzMTAiIGhlaWdodD0iMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0ibm9uZSIgcG9pbnRlci1ldmVudHM9ImFsbCIvPjwvZz48Zz48Zz48c3dpdGNoPjxmb3JlaWduT2JqZWN0IHN0eWxlPSJvdmVyZmxvdzogdmlzaWJsZTsgdGV4dC1hbGlnbjogbGVmdDsiIHBvaW50ZXItZXZlbnRzPSJub25lIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiByZXF1aXJlZEZlYXR1cmVzPSJodHRwOi8vd3d3LnczLm9yZy9UUi9TVkcxMS9mZWF0dXJlI0V4dGVuc2liaWxpdHkiPjxkaXYgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIHN0eWxlPSJkaXNwbGF5OiBmbGV4OyBhbGlnbi1pdGVtczogdW5zYWZlIGNlbnRlcjsganVzdGlmeS1jb250ZW50OiB1bnNhZmUgY2VudGVyOyB3aWR0aDogMzA4cHg7IGhlaWdodDogMXB4OyBwYWRkaW5nLXRvcDogMTVweDsgbWFyZ2luLWxlZnQ6IDFweDsiPjxkaXYgc3R5bGU9ImJveC1zaXppbmc6IGJvcmRlci1ib3g7IGZvbnQtc2l6ZTogMDsgdGV4dC1hbGlnbjogY2VudGVyOyBjb2xvcjogIzAwMDAwMDsgIj48ZGl2IHN0eWxlPSJkaXNwbGF5OiBpbmxpbmUtYmxvY2s7IGZvbnQtc2l6ZTogMTJweDsgZm9udC1mYW1pbHk6IEhlbHZldGljYTsgY29sb3I6IGxpZ2h0LWRhcmsoIzAwMDAwMCwgI2ZmZmZmZik7IGxpbmUtaGVpZ2h0OiAxLjI7IHBvaW50ZXItZXZlbnRzOiBhbGw7IHdoaXRlLXNwYWNlOiBub3JtYWw7IHdvcmQtd3JhcDogbm9ybWFsOyAiPjxiPjxmb250IHN0eWxlPSJmb250LXNpemU6IDE0cHg7Ij52aXNpYmlsaXTDqSAmbHQ7IDgwMCBtw6h0cmVzIE9VIHBsYWZvbmQgJmx0OyAzMDAgcGllZHM8L2ZvbnQ+PC9iPjwvZGl2PjwvZGl2PjwvZGl2PjwvZm9yZWlnbk9iamVjdD48dGV4dCB4PSIxNTUiIHk9IjE5IiBmaWxsPSJsaWdodC1kYXJrKCMwMDAwMDAsICNmZmZmZmYpIiBmb250LWZhbWlseT0iSGVsdmV0aWNhIiBmb250LXNpemU9IjEycHgiIHRleHQtYW5jaG9yPSJtaWRkbGUiPnZpc2liaWxpdMOpICZsdDsgODAwIG3DqHRyZXMgT1UgcGxhZm9uZCAmbHQ7IDMwMCBwaWVkczwvdGV4dD48L3N3aXRjaD48L2c+PC9nPjwvZz48L2c+PC9nPjwvZz48c3dpdGNoPjxnIHJlcXVpcmVkRmVhdHVyZXM9Imh0dHA6Ly93d3cudzMub3JnL1RSL1NWRzExL2ZlYXR1cmUjRXh0ZW5zaWJpbGl0eSIvPjxhIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTUpIiB4bGluazpocmVmPSJodHRwczovL3d3dy5kcmF3aW8uY29tL2RvYy9mYXEvc3ZnLWV4cG9ydC10ZXh0LXByb2JsZW1zIiB0YXJnZXQ9Il9ibGFuayI+PHRleHQgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMHB4IiB4PSI1MCUiIHk9IjEwMCUiPlRleHQgaXMgbm90IFNWRyAtIGNhbm5vdCBkaXNwbGF5PC90ZXh0PjwvYT48L3N3aXRjaD48L3N2Zz4=
+```
+
+
+</center>
+
+> Lorsque ces conditions sont réunies, il faut le mentionner dans l'ATIS avec la phrase **"LVO in force"**.
+{.is-info}
+
+
+Les impacts concrets sur la gestion de la plateforme lorsque les LVO sont en vigueur sont détaillés dans les points précédents sur cette page.
+
+> Seule la piste 13L est dotée d’approche CAT II & III restreintes aux aéronefs d’envergure inférieure à 65 m et de CAT A, B ou C uniquement. Le dégagement de piste se fait uniquement par D9.
+{.is-warning}
+
