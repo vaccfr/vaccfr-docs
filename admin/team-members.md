@@ -2,7 +2,7 @@
 title: Membres des équipes
 description: Membres des équipes
 published: true
-date: 2026-08-10T15:06:14.762Z
+date: 2026-08-10T15:08:03.068Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T14:45:23.039Z
@@ -68,3 +68,12 @@ dateCreated: 2026-08-10T14:45:23.039Z
 |    12     | Goulven G. (1570276)           |
 |    13     | Hervé R. (1092415)             |
 |    14     | Alexis B. (1459318)            |
+
+## Events Team
+
+|  Index    |       Membre                   |
+|:---------:|:------------------------------:|
+|    1      | Corentin Z. (1469818)          |
+|    2      | Anthony G. (1501524)           |
+|    3      | Léo D. (1632236)               |
+|    4      | Pierre B. (1601111)            |
