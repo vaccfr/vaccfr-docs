@@ -2,7 +2,7 @@
 title: Membres des équipes
 description: Membres des équipes
 published: true
-date: 2026-08-10T15:00:06.263Z
+date: 2026-08-10T15:06:14.762Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T14:45:23.039Z
@@ -49,3 +49,22 @@ dateCreated: 2026-08-10T14:45:23.039Z
 |    13     | Mohammed B. (1486647)          |
 |    14     | Antonin C. (1527944)           |
 |    15     | François-Xavier O. (1086470)   |
+
+## Digital Team
+
+|  Index    |       Membre                   |
+|:---------:|:------------------------------:|
+|    1      | Corentin Z. (1469818)          |
+|    2      | Jeremy R. (1246216)            |
+|    3      | Léo D. (1632236)               |
+|    4      | Arthur P. (1632233)            |
+|    5      | Florian R. (1225664)           |
+|    6      | Pierre L. (1723601)            |
+|    7      | Pierre F. (1259058)            |
+|    8      | Peter P. (1267123)             |
+|    9      | François-Xavier O. (1086470)   |
+|    10     | Simon N. (1468033)             |
+|    11     | Nicolas B. (1289760)           |
+|    12     | Goulven G. (1570276)           |
+|    13     | Hervé R. (1092415)             |
+|    14     | Alexis B. (1459318)            |
