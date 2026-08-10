@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2026-06-16T15:33:08.330Z
+date: 2026-08-10T14:46:01.303Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-09T18:42:45.272Z
@@ -69,5 +69,5 @@ Liste non exhaustive. Seules les plus importantes sont listées ici.
 {.links-list}
 
 ###### Liens utiles
-- TBD
+- [Membres des équipes](/fr/admin/team-members)
 {.links-list}
