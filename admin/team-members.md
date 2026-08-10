@@ -2,7 +2,7 @@
 title: Membres des équipes
 description: Membres des équipes
 published: true
-date: 2026-08-10T15:11:40.603Z
+date: 2026-08-10T15:15:45.308Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T14:45:23.039Z
@@ -92,3 +92,19 @@ dateCreated: 2026-08-10T14:45:23.039Z
 |    8      | Chriss K. (1306415)            |
 |    9      | David L. (1161277)             |
 |    10     | Raphael M. (1461589)           |
+
+## Doc Team
+
+|  Index     |       Membre                   |
+|:----------:|:------------------------------:|
+|    1       | Corentin Z. (1469818)          |
+|    2       | Anthony G. (1501524)           |
+|    3       | Léo D. (1632236)               |
+|    4       | Pierre B. (1601111)            |
+|    5       | Fazil B. (1555011)             |
+|    6       | Nicolas B. (1289760)           |
+|    7       | Romain R. (812070)             |
+|    8       | Simon N. (1468033)             |
+|    9       | Mohammed B. (1486647)          |
+|    10      | Chriss K. (1306415)            |
+|    11      | François-Xavier O. (1086470)   |
