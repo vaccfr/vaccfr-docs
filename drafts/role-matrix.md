@@ -2,7 +2,7 @@
 title: Matrice des responsabilités
 description: Matrice des responsabilités
 published: true
-date: 2026-08-10T13:59:56.188Z
+date: 2026-08-10T14:05:00.125Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T10:57:21.328Z
