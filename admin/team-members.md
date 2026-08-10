@@ -2,7 +2,7 @@
 title: Membres des équipes
 description: Membres des équipes
 published: true
-date: 2026-08-10T15:08:03.068Z
+date: 2026-08-10T15:11:40.603Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T14:45:23.039Z
@@ -77,3 +77,18 @@ dateCreated: 2026-08-10T14:45:23.039Z
 |    2      | Anthony G. (1501524)           |
 |    3      | Léo D. (1632236)               |
 |    4      | Pierre B. (1601111)            |
+
+## Nav Team
+
+|  Index    |       Membre                   |
+|:---------:|:------------------------------:|
+|    1      | Corentin Z. (1469818)          |
+|    2      | Anthony G. (1501524)           |
+|    3      | Mathias D. (1783675)           |
+|    4      | Matthieu P. (1426229)          |
+|    5      | Hervé R. (1092415)             |
+|    6      | Simon N. (1468033)             |
+|    7      | Mohammed B. (1486647)          |
+|    8      | Chriss K. (1306415)            |
+|    9      | David L. (1161277)             |
+|    10     | Raphael M. (1461589)           |
