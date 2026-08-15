@@ -1,4 +1,6 @@
-![French vACC Logo](https://doc.vatsim.fr/img/logo_light.png)
+<p align="center">
+  <img src="https://doc.vatsim.fr/img/logo_light.png" alt="French vACC Logo">
+</p>
 
 # French vACC Documentation Repository
 
