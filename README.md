@@ -1,4 +1,4 @@
-![French vACC Logo](https://doc.vatsim.fr/img/logo_dark.png)
+![French vACC Logo](https://doc.vatsim.fr/img/logo_light.png)
 
 # French vACC Documentation Repository
 
